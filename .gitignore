@@ -1,0 +1,33 @@
+# phpstorm project files
+.idea
+
+# zend studio for eclipse project files
+/src/.buildpath
+/src/.project
+/src/.settings
+
+# windows thumbnail cache
+/src/Thumbs.db
+
+# composer vendor dir
+/src/vendor
+
+# composer itself is not needed
+/src/composer.phar
+
+
+# phpunit itself is not needed
+/src/phpunit.phar
+# local phpunit config
+/src/phpunit.xml
+
+/src/tests/_output/*
+/src/tests/_support/_generated
+
+#vagrant folder
+/src/.vagrant
+
+/src/docker-compose.yml
+/src/vagrant
+/src/Vagrantfile
+
